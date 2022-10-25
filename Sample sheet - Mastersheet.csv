@@ -1,0 +1,9 @@
+Date,Location,First Name,Last Name,ID,Phone No,Item,Quantity,SKU,Amount,,,,,,,,,,,,,,,,,
+1-Oct-2022,Wisconsin,Emma,Jones,1a,115789,Throwpillow,1,1345T,$60.00,,,,,,,,,,,,,,,,,
+2-Oct-2022,Kamusinga,King,Lee,2a,223386,Blanket,2,1675B,$80.00,,,,,,,,,,,,,,,,,
+3-Oct-2022,Noehem,Jemma,Nix,3a,,Vase,6,3426V,$98.00,,,,,,,,,,,,,,,,As of September,
+4-Oct-2022,Sanbox,Fox,Keystone,4a,,Lamp,4,4262L,$61.00,,,,,,,,,,,,,,,,Location,
+,,,,,,,,,,,,,,,,,,,,,,September,,,Wisconsin,0
+,,,,,,,,,,,,,,,,,,,,,,,,,Kamusinga,
+,,,,,,,,,,,,,,,,,,,,,,,,,Noehem,
+,,,,,,,,,,,,,,,,,,,,,,,,,Sanbox,
